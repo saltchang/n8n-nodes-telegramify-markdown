@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-telegramify-markdown",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "This is a node for n8n to convert text to Telegram supported Markdown",
   "keywords": [
     "n8n-community-node-package",
